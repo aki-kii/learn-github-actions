@@ -6,4 +6,4 @@ GitHub Actionsのことを知るために色々やってみる
 
 ## やったこと
 
-[GitHub Actionsのクイックスタートをやってみる](https://docs.github.com/ja/actions/quickstart)
+[GitHub Actionsのクイックスタートをやってみる](/quick-start)
