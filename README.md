@@ -2,5 +2,8 @@
 
 ## 概要
 
-GitHub Actionsのクイックスタートをやってみる
-<https://docs.github.com/ja/actions/quickstart>
+GitHub Actionsのことを知るために色々やってみる
+
+## やったこと
+
+[GitHub Actionsのクイックスタートをやってみる](/quick-start/README.md)
